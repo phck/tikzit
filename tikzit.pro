@@ -1,3 +1,5 @@
+INCLUDEPATH += /opt/homebrew/opt/qt/include
+LIBS += -L/opt/homebrew/opt/qt/lib
 # CONFIG += debug
 
 QT += core gui widgets network pdf
